@@ -58,7 +58,7 @@ Put the following images in an `Images/` folder located in the same directory as
 
 ---
 
-## 🧠 Technologies Used
+## Technologies Used
 
 - C# (.NET Framework)
 - Windows Forms
