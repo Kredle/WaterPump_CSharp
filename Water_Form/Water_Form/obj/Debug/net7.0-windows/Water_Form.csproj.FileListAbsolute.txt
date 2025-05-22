@@ -1,0 +1,16 @@
+C:\Users\gamel\source\repos\Water_Form\Water_Form\obj\Debug\net7.0-windows\Water_Form.Form1.resources
+C:\Users\gamel\source\repos\Water_Form\Water_Form\obj\Debug\net7.0-windows\Water_Form.csproj.GenerateResource.cache
+C:\Users\gamel\source\repos\Water_Form\Water_Form\obj\Debug\net7.0-windows\Water_Form.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gamel\source\repos\Water_Form\Water_Form\obj\Debug\net7.0-windows\Water_Form.AssemblyInfoInputs.cache
+C:\Users\gamel\source\repos\Water_Form\Water_Form\obj\Debug\net7.0-windows\Water_Form.AssemblyInfo.cs
+C:\Users\gamel\source\repos\Water_Form\Water_Form\obj\Debug\net7.0-windows\Water_Form.csproj.CoreCompileInputs.cache
+C:\Users\gamel\source\repos\Water_Form\Water_Form\bin\Debug\net7.0-windows\Water_Form.exe
+C:\Users\gamel\source\repos\Water_Form\Water_Form\bin\Debug\net7.0-windows\Water_Form.deps.json
+C:\Users\gamel\source\repos\Water_Form\Water_Form\bin\Debug\net7.0-windows\Water_Form.runtimeconfig.json
+C:\Users\gamel\source\repos\Water_Form\Water_Form\bin\Debug\net7.0-windows\Water_Form.dll
+C:\Users\gamel\source\repos\Water_Form\Water_Form\bin\Debug\net7.0-windows\Water_Form.pdb
+C:\Users\gamel\source\repos\Water_Form\Water_Form\obj\Debug\net7.0-windows\Water_Form.dll
+C:\Users\gamel\source\repos\Water_Form\Water_Form\obj\Debug\net7.0-windows\refint\Water_Form.dll
+C:\Users\gamel\source\repos\Water_Form\Water_Form\obj\Debug\net7.0-windows\Water_Form.pdb
+C:\Users\gamel\source\repos\Water_Form\Water_Form\obj\Debug\net7.0-windows\Water_Form.genruntimeconfig.cache
+C:\Users\gamel\source\repos\Water_Form\Water_Form\obj\Debug\net7.0-windows\ref\Water_Form.dll
